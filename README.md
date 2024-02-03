@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### My name is Long, and I'm a software engineer primarily working on front-end projects.
 <!--
 **pickordian/pickordian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
